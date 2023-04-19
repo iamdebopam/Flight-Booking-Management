@@ -13,6 +13,8 @@
         <option value="$PROJECT_DIR$/booking-microservice/pom.xml" />
         <option value="$PROJECT_DIR$/auth-microservice/pom.xml" />
         <option value="$USER_HOME$/OneDrive - Capgemini/Documents/flight-booking-system-main/flight-booking-system-main/auth/pom.xml" />
+        <option value="$USER_HOME$/OneDrive - Capgemini/Documents/springboot-microservices/service-registry/pom.xml" />
+        <option value="$USER_HOME$/OneDrive - Capgemini/Documents/springboot-microservices/api-gateway/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

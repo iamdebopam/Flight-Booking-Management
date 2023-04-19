@@ -6,7 +6,8 @@ import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 
-@FeignClient(name = "flight",url = "http://localhost:8080/flights")
+//@FeignClient(name = "flight",url = "http://localhost:8080/flights")
+@FeignClient(name = "FLIGHT")
 public interface FlightClient {
 
 	@PostMapping("/reserve/{id}")
