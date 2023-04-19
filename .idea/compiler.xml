@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="booking-microservice" />
+        <module name="flight-microservice" />
+        <module name="auth" />
+        <module name="checkin-microservice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="auth-microservice" target="17" />
+      <module name="Authentication_JWT" target="17" />
+      <module name="Flight-Booking-Management" target="19" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Authentication_JWT" options="-parameters" />
+      <module name="auth" options="-parameters" />
+      <module name="auth-microservice" options="-parameters" />
+      <module name="booking-microservice" options="-parameters" />
+      <module name="checkin-microservice" options="-parameters" />
+      <module name="flight-microservice" options="-parameters" />
+    </option>
+  </component>
+</project>
