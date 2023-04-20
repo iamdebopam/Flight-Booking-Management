@@ -10,12 +10,12 @@
         <module name="api-gateway" />
         <module name="booking-microservice" />
         <module name="flight-microservice" />
-        <module name="auth" />
         <module name="service-registry" />
         <module name="checkin-microservice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="auth" target="11" />
       <module name="auth-microservice" target="17" />
       <module name="Authentication_JWT" target="17" />
       <module name="Flight-Booking-Management" target="19" />
