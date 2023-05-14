@@ -15,14 +15,16 @@
         <option value="$USER_HOME$/OneDrive - Capgemini/Documents/flight-booking-system-main/flight-booking-system-main/auth/pom.xml" />
         <option value="$USER_HOME$/OneDrive - Capgemini/Documents/springboot-microservices/service-registry/pom.xml" />
         <option value="$USER_HOME$/OneDrive - Capgemini/Documents/springboot-microservices/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../jwt-apigateway-security-main/jwt-apigateway-security-main/identity-service/pom.xml" />
+        <option value="$PROJECT_DIR$/identity-service/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/Authentication_JWT/pom.xml" />
         <option value="$PROJECT_DIR$/auth-microservice/pom.xml" />
-        <option value="$PROJECT_DIR$/auth/pom.xml" />
         <option value="$PROJECT_DIR$/../auth/pom.xml" />
+        <option value="$PROJECT_DIR$/../jwt-apigateway-security-main/jwt-apigateway-security-main/identity-service/pom.xml" />
         <option value="$USER_HOME$/OneDrive - Capgemini/Documents/flight-booking-system-main/flight-booking-system-main/auth/pom.xml" />
       </set>
     </option>
